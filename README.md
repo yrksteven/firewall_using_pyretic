@@ -1,4 +1,4 @@
-
+This is the project for the USTC course CS05112, which was finished in 2015 fall semester.
 
 # firewall_using_pyretic
 Create a fully functional layer-2 Firewall application using Pyretic
